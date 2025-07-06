@@ -1,6 +1,6 @@
 {
   "name": "intensity-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": ["yayacat"],
   "description": {
     "zh_tw": "intensity 原始資料 紀錄器",
